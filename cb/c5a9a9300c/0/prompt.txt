@@ -1,0 +1,1 @@
+Add a brief "Vision" section to CONTRIBUTING.md with one sentence: "This is a living document — fork it, challenge it, make it better." Keep it minimal, just that section name and the sentence.
